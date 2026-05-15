@@ -24,3 +24,6 @@ def sub(a, b):
         La différence entre a et b
     """
     return a - b
+
+def div(a, b):
+    return a / b
